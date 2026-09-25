@@ -1,4 +1,4 @@
-# proxi-machine-cutoff-circuitk (PIR / 555 Timer)
+# proxi-machine-cutoff-circuit (PIR / 555 Timer)
 
 An emergency safety interlock module designed to instantly shut down moving industrial machinery, high-voltage AC equipment, or heavy DC devices when human presence or motion is detected near dangerous moving parts.
 

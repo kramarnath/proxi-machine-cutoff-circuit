@@ -9,14 +9,14 @@ This repository covers the complete hardware development path—from a low-volta
 ## Working Demo & Media
 
 ### **Hardware Prototype in Action**
-![Working Demo Preview](docs/images/pcb/prototype.gif)
+![Working Demo Preview](docs/images/prototype/prototype.gif)
 
-> 📹 **[Watch Full High-Resolution Demonstration Video](docs/images/pcb/prototype.mp4)**
+> 📹 **[Watch Full High-Resolution Demonstration Video](docs/images/prototype/prototype.mp4)**
 
 ### **Benchtop Prototype Setup**
 <table>
   <tr>
-    <td align="center"><img src="docs/images/pcb/prototype.jpg" alt="Prototype" height="200"/></td>
+    <td align="center"><img src="docs/images/prototype/prototype.jpg" alt="Prototype" height="200"/></td>
   </tr>
 </table>
 
@@ -142,8 +142,8 @@ $$\beta = \frac{I_{Coil}}{I_{B2}} = \frac{80\text{ mA}}{7.02\text{ mA}} \approx 
 
 <table>
   <tr>
-    <td align="center"><img src="docs/images/pcb/3D_front.png" alt="Front Side of the 3D View" height="200"/></td>
-    <td align="center"><img src="docs/images/pcb/3D_back.png" alt="Back Side of the 3D View" height="200"/></td>
+    <td align="center"><img src="docs/images/pcb/3d_front.png" alt="Front Side of the 3D View" height="200"/></td>
+    <td align="center"><img src="docs/images/pcb/3d_back.png" alt="Back Side of the 3D View" height="200"/></td>
   </tr>
 </table>
 

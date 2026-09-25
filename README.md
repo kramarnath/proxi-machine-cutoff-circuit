@@ -63,7 +63,7 @@ In workshop and industrial automation environments, heavy machinery (drills, lat
 
 ---
 
-## 📐 Circuit Analysis & Detailed Calculations
+## Circuit Analysis & Detailed Calculations
 
 ### 1. Instant Cut-Off Response Delay
 
